@@ -304,7 +304,7 @@ body, p, li, .card-text, .badge-category, button, input, select {
    =========================== */
    .section-bg {
     position: relative;
-    background: url('retro-refrigerator-indoors.jpg.webp') center center/cover no-repeat fixed;
+    background: url('frigo-bg.webp') center center/cover no-repeat fixed;
     color: white;
     padding: 4rem 1rem;
     overflow: hidden;
