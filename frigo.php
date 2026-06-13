@@ -227,7 +227,7 @@ session_start();
     <div class="container text-center">
         <h2>À propos</h2>
         <p>Frigo App est un projet IFT3225 permettant la gestion intelligente des ingrédients et la génération de recettes adaptées selon vos disponibilités, visant à réduire le gaspillage alimentaire.</p>
-        <p>Réalisé par lea hemidj, youssef]</p>
+        <p>Réalisé par les Hemidj</p>
     </div>
 </section>
 
@@ -257,7 +257,7 @@ session_start();
 </section>
 
 <footer>
-    Frigo App © 2025 — Réalisé  par lea hemidj et youssef
+    Frigo App © 2025 — Réalisé par les Hemidj
 </footer>
 
 <!-- ============ SCRIPTS ============ -->

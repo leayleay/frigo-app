@@ -2,7 +2,7 @@
 
 Projet réalisé dans le cadre du cours **IFT3225 – Technologies des applications Web** à l'Université de Montréal.
 
-**Auteurs :** Lea Hemidj, Youssef
+**Auteurs :** Les Hemidj
 
 ---
 
